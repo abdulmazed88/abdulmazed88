@@ -32,5 +32,4 @@ I build modern, scalable storefronts using React and Next.js (Headless Shopify).
 - Upwork: https://www.upwork.com/freelancers/abdulmazed3
 - Fiverr: https://www.fiverr.com/mazed88
 - Behance: https://www.behance.net/mazed88
-- Dribbble: https://dribbble.com/mazed88
 - Linkedin: https://www.linkedin.com/in/mazed88/
