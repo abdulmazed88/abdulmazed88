@@ -29,5 +29,5 @@ I build modern, scalable storefronts using React and Next.js (Headless Shopify).
 ---
 
 ## 📫 Contact
-- Upwork: (add your Upwork profile link)
-- Fiverr: (add your Fiverr profile link)
+- Upwork: https://www.upwork.com/freelancers/abdulmazed3
+- Fiverr: https://www.fiverr.com/mazed88
